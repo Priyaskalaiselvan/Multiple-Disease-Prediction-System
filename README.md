@@ -116,6 +116,9 @@ Final model:
 
 Then loaded the model in Streamlit App
 
+🛠️ Tech Stack
+Python Pandas NumPy Scikit-learn Imbalanced-learn Streamlit Joblib
+
 📌 Future Enhancements
 
 Add SHAP explainability
